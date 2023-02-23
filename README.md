@@ -1,2 +1,2 @@
 # ui-website
-Mallika's website for UI / UX consulting projects. 
+Mallika's website for Front End engineering projects. 
