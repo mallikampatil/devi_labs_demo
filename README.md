@@ -1,2 +1,8 @@
 # ui-website
-Mallika's website for Front End engineering projects. 
+Website refactor of the website for Devi Labs
+
+## Initial Mockups
+
+## Final Design 
+
+## Coded Final Result 
